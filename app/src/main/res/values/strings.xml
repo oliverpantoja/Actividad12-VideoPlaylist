@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Video Playlist</string>
+    <string name="ver_video">Ver Video</string>
+
+    <string-array name="artists">
+        <item>Queen</item>
+        <item>Guns N\' Roses</item>
+        <item>Nirvana</item>
+        <item>Linkin Park</item>
+        <item>The Eagles</item>
+        <item>Coldplay</item>
+        <item>Metallica</item>
+        <item>Guns N\' Roses</item>
+        <item>Evanescence</item>
+        <item>The Cranberries</item>
+        <item>Rage Against The Machine</item>
+        <item>The Black Keys</item>
+    </string-array>
+
+    <string-array name="songs">
+        <item>Bohemian Rhapsody</item>
+        <item>Sweet Child O\' Mine</item>
+        <item>Smells Like Teen Spirit</item>
+        <item>Numb</item>
+        <item>Hotel California</item>
+        <item>The Scientist</item>
+        <item>Nothing Else Matters</item>
+        <item>November Rain</item>
+        <item>Bring Me To Life</item>
+        <item>Zombie</item>
+        <item>Testify</item>
+        <item>Lonely Boy</item>
+    </string-array>
+
+    <string-array name="urls">
+        <item>https://www.youtube.com/watch?v=fJ9rUzIMcZQ</item>
+        <item>https://www.youtube.com/watch?v=1w7OgIMMRc4</item>
+        <item>https://www.youtube.com/watch?v=hTWKbfoikeg</item>
+        <item>https://www.youtube.com/watch?v=kXYiU_JCYtU</item>
+        <item>https://www.youtube.com/watch?v=KZ1RP84QLdY</item>
+        <item>https://www.youtube.com/watch?v=RB-RcX5DS5A</item>
+        <item>https://www.youtube.com/watch?v=tAGnKpE4NCI</item>
+        <item>https://www.youtube.com/watch?v=8SbUC-UaAxE</item>
+        <item>https://www.youtube.com/watch?v=3YxaaGgTQYM</item>
+        <item>https://www.youtube.com/watch?v=6Ejga4kJUts</item>
+        <item>https://www.youtube.com/watch?v=Q3dvbM6Pias</item>
+        <item>https://www.youtube.com/watch?v=a_426RiwST8</item>
+    </string-array>
+</resources>
